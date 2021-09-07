@@ -1,0 +1,6 @@
+pandas
+pandas_access
+nltk
+numpy
+keras
+tensorflow
